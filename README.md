@@ -29,6 +29,16 @@ The dashboard is designed for management reporting and decision support.
 - SQL (data extraction & transformation)
 - Excel (data cleaning and preprocessing)
 
+## 🔍 Methodology (Step-by-Step)
+
+1. Understood business requirements and key KPIs for sales performance tracking
+2. Cleaned and transformed raw data using Power Query
+3. Designed a star schema data model with fact and dimension tables
+4. Created reusable DAX measures for orders, revenue, profit, and targets
+5. Built interactive dashboards with slicers, drill-downs, and filters
+6. Validated results and optimized visuals for business users
+
+
 ## 🖼 Dashboard Preview
 
 ### 1️⃣ Overall Sales Performance
