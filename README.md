@@ -29,6 +29,17 @@ The dashboard is designed for management reporting and decision support.
 - SQL (data extraction & transformation)
 - Excel (data cleaning and preprocessing)
 
+## 🖼 Dashboard Preview
+
+### 1️⃣ Overall Sales Performance
+![Overall View](images/Dashboard%201%20-%20Overall%20View.png)
+
+### 2️⃣ Product Performance Analysis
+![Product Details](images/Dashboard%202%20-%20Product%20Details.png)
+
+### 3️⃣ Customer & Demographic Insights
+![Customer Details](images/Dashboard%203%20-%20Customer%20Details.png)
+
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
