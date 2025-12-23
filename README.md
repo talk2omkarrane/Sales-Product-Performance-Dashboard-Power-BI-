@@ -38,6 +38,15 @@ The dashboard is designed for management reporting and decision support.
 5. Built interactive dashboards with slicers, drill-downs, and filters
 6. Validated results and optimized visuals for business users
 
+## 📌 Key KPIs
+- Total Orders
+- Total Revenue
+- Total Profit
+- Monthly Orders vs Target
+- Monthly Revenue vs Target
+- Return Rate
+- Top Products by Orders and Profit
+
 
 ## 🖼 Dashboard Preview
 
